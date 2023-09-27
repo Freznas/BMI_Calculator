@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI kalkylatorn</string>
+    <string name="bmi_titel">BMI Kalkylatorn</string>
+    <string name= "in_height">längd(cm)</string>
+    <string name= "in_weight">vikt(kg)</string>
+    <string name="instruction">Ange din längd och vikt
+    </string>
+    <string name="Knapp">Räkna ut BMI</string>
+</resources>
